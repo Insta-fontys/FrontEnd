@@ -5,7 +5,7 @@ function ContentPost(props, link){
                 <label className='username'>{props.text}</label>
             </div>
             <div>
-                <img src='https://picsum.photos/200' />
+                <img src='https://picsum.photos/200' alt='https://picsum.photos/200'/>
             </div>
             <div className='actions'>
                 <button>like</button>
