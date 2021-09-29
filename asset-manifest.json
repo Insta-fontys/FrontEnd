@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Insta-fontys/FrontEnd/static/css/main.7ad4c51c.chunk.css",
+    "main.js": "/Insta-fontys/FrontEnd/static/js/main.9428bb48.chunk.js",
+    "main.js.map": "/Insta-fontys/FrontEnd/static/js/main.9428bb48.chunk.js.map",
+    "runtime-main.js": "/Insta-fontys/FrontEnd/static/js/runtime-main.8d7af071.js",
+    "runtime-main.js.map": "/Insta-fontys/FrontEnd/static/js/runtime-main.8d7af071.js.map",
+    "static/js/2.9b00ad67.chunk.js": "/Insta-fontys/FrontEnd/static/js/2.9b00ad67.chunk.js",
+    "static/js/2.9b00ad67.chunk.js.map": "/Insta-fontys/FrontEnd/static/js/2.9b00ad67.chunk.js.map",
+    "index.html": "/Insta-fontys/FrontEnd/index.html",
+    "static/css/main.7ad4c51c.chunk.css.map": "/Insta-fontys/FrontEnd/static/css/main.7ad4c51c.chunk.css.map",
+    "static/js/2.9b00ad67.chunk.js.LICENSE.txt": "/Insta-fontys/FrontEnd/static/js/2.9b00ad67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7af071.js",
+    "static/js/2.9b00ad67.chunk.js",
+    "static/css/main.7ad4c51c.chunk.css",
+    "static/js/main.9428bb48.chunk.js"
+  ]
+}
