@@ -7,7 +7,7 @@ function App() {
       <div className='contentHolder'>
         <ContentPost text='Max_Neijndorff' link='https://picsum.photos/200/'/>
         <ContentPost text='Henkie'/>
-        <ContentPost text='Hans'/>
+        <ContentPost text='Pablo'/>
       </div>
     </div>
   );
