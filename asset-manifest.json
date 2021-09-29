@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Insta-fontys/FrontEnd/static/css/main.7ad4c51c.chunk.css",
-    "main.js": "/Insta-fontys/FrontEnd/static/js/main.45600bd7.chunk.js",
-    "main.js.map": "/Insta-fontys/FrontEnd/static/js/main.45600bd7.chunk.js.map",
-    "runtime-main.js": "/Insta-fontys/FrontEnd/static/js/runtime-main.8d7af071.js",
-    "runtime-main.js.map": "/Insta-fontys/FrontEnd/static/js/runtime-main.8d7af071.js.map",
-    "static/js/2.9b00ad67.chunk.js": "/Insta-fontys/FrontEnd/static/js/2.9b00ad67.chunk.js",
-    "static/js/2.9b00ad67.chunk.js.map": "/Insta-fontys/FrontEnd/static/js/2.9b00ad67.chunk.js.map",
-    "index.html": "/Insta-fontys/FrontEnd/index.html",
-    "static/css/main.7ad4c51c.chunk.css.map": "/Insta-fontys/FrontEnd/static/css/main.7ad4c51c.chunk.css.map",
-    "static/js/2.9b00ad67.chunk.js.LICENSE.txt": "/Insta-fontys/FrontEnd/static/js/2.9b00ad67.chunk.js.LICENSE.txt"
+    "main.css": "//insta-fontys.github.io/FrontEnd/static/css/main.8e7cf4cb.chunk.css",
+    "main.js": "//insta-fontys.github.io/FrontEnd/static/js/main.45600bd7.chunk.js",
+    "main.js.map": "//insta-fontys.github.io/FrontEnd/static/js/main.45600bd7.chunk.js.map",
+    "runtime-main.js": "//insta-fontys.github.io/FrontEnd/static/js/runtime-main.b1ed6bf0.js",
+    "runtime-main.js.map": "//insta-fontys.github.io/FrontEnd/static/js/runtime-main.b1ed6bf0.js.map",
+    "static/js/2.9b00ad67.chunk.js": "//insta-fontys.github.io/FrontEnd/static/js/2.9b00ad67.chunk.js",
+    "static/js/2.9b00ad67.chunk.js.map": "//insta-fontys.github.io/FrontEnd/static/js/2.9b00ad67.chunk.js.map",
+    "index.html": "//insta-fontys.github.io/FrontEnd/index.html",
+    "static/css/main.8e7cf4cb.chunk.css.map": "//insta-fontys.github.io/FrontEnd/static/css/main.8e7cf4cb.chunk.css.map",
+    "static/js/2.9b00ad67.chunk.js.LICENSE.txt": "//insta-fontys.github.io/FrontEnd/static/js/2.9b00ad67.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d7af071.js",
+    "static/js/runtime-main.b1ed6bf0.js",
     "static/js/2.9b00ad67.chunk.js",
-    "static/css/main.7ad4c51c.chunk.css",
+    "static/css/main.8e7cf4cb.chunk.css",
     "static/js/main.45600bd7.chunk.js"
   ]
 }
